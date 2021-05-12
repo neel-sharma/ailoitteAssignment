@@ -1,0 +1,1 @@
+As it is a debugging application its size is more than 9-10x of the original apk.
